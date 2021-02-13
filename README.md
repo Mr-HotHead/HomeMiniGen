@@ -6,9 +6,9 @@ There is a separate site for redeeming the code,find it yourself
 
 Usage:
 
-$apt install git
+$pkg install git
 
-$apt install python3
+$pkg install python
 
 $git clone https://github.com/Noobita69/HomeMiniGen.git
 
